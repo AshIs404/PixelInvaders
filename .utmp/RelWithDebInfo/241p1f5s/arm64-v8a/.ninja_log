@@ -1,0 +1,23 @@
+# ninja log v5
+0	1066	1730964933462612776	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	aab649d20fcd7a3a
+1	821	1730964933217513845	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9dfebc546bd3c5b9
+2	950	1730964933346596670	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5928ab592c53d319
+3	797	1730964933193318234	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c3cea5c96c62b1e
+1067	1150	1730964933544295836	/Users/asherruvinov/Galactic Defender/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/241p1f5s/obj/arm64-v8a/libgame.so	3e5dbf305c7381fa
+2	736	1730964933132840500	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d048546539e5acc3
+2	701	1730964933094950046	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c324ce0cac9de428
+1	716	1730964933112579964	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	62c0d087eb29c114
+1	700	1730964933093094384	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d41cee8ea2590a
+155	292	1730964932682872085	/Users/asherruvinov/Galactic Defender/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/241p1f5s/obj/arm64-v8a/libswappywrapper.so	776607aa1fdd85fc
+4	155	1730964932554089051	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cc4a14660d565b29
+6	607	1730978628286902997	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	cc4a14660d565b29
+3	822	1730978628502355354	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c324ce0cac9de428
+3	832	1730978628513868337	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	d41cee8ea2590a
+2	850	1730978628531648137	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	62c0d087eb29c114
+4	851	1730978628533148780	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d048546539e5acc3
+607	880	1730978628562988929	/Users/asherruvinov/Galactic Defender/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/241p1f5s/obj/arm64-v8a/libswappywrapper.so	776607aa1fdd85fc
+5	920	1730978628602720754	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c3cea5c96c62b1e
+2	948	1730978628630602268	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9dfebc546bd3c5b9
+3	1082	1730978628764465634	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5928ab592c53d319
+1	1168	1730978628850693884	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	aab649d20fcd7a3a
+1168	1247	1730978628925972392	/Users/asherruvinov/Galactic Defender/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/241p1f5s/obj/arm64-v8a/libgame.so	3e5dbf305c7381fa
