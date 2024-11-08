@@ -23,7 +23,6 @@ public class ScoreController : MonoBehaviour
     /// <param name="newValue">The new score value to be displayed.</param>
     public void UpdateScoreUI(int newValue)
     {
-        Debug.Log("New score: " + newValue);
         if (scoreText != null)
         {
             scoreText.text = $"{newValue}";
